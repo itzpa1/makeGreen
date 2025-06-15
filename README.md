@@ -53,7 +53,7 @@ This will start generating the commits as per your script.
 ## 🎥 Video Tutorial
 
 For a complete walkthrough, check out the original tutorial that inspired this project:  
-[Watch here](https://www.youtube.com/watch?v=G-EGDH50hGE)
+[Watch here](https://youtu.be/LlkcvvGbs9I?si=GrgM1pTpSl42Q4JD)
 
 ## 🛠️ npm Modules Used
 
